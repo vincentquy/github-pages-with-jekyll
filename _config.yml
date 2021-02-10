@@ -10,3 +10,5 @@ twitter_username: VincentQuy # DO NOT include the @ character, or else the build
 github_username:  vincentquy # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: false # set to false to remove excerpts on the homepage
+
+theme: minima
